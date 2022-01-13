@@ -1,0 +1,16 @@
+서류검토->코딩테스트->기술면접->인성면접
+변수명, 코드길이, 팀워크,
+이를 스토리를 만들어야한다.
+std::vetor ->array
+std::map -> hash table
+std::list -> Liked list
+
+완전탐색
+
+divide and conquer
+iterator
+Brute Force ->완전탐색 -> 반복/조건문을 활용해 모두 테스트 하는 방법
+
+– Divide-and-Conquer ->분할정복(recursion)
+– Dynamic Programming 
+– Recurrence
